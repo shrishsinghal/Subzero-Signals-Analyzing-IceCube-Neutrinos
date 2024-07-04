@@ -6,7 +6,7 @@ Utilizing advanced clustering techniques, the project seeks to unravel patterns 
 Furthermore, the project will introduce a vector database specifically tailored for angular values, enabling streamlined vector queries. Demonstrating real-time processing capabilities, simulated data streaming will be implemented, showcasing the system’s capacity for live data processing. In a bid to enhance predictive capabilities, regression models and Convolutional Neural Networks (CNN) will be trained on the dataset to predict the point of origin for neutrino events. Ultimately, this project aims to culminate in a multi-faceted, integrated system designed to optimally query, process, visualize, and deploy predictive models
 on large-scale neutrino data.
 
-This project is related to the competition posted on Kaggle titled [IceCube - Neutrinos in Deep Ice]([http://www.myportfolio.com](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice)).
+This project is related to the competition posted on Kaggle titled [IceCube - Neutrinos in Deep Ice](http://www.myportfolio.com](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice).
 
 The architecture is given below:
 
